@@ -1,0 +1,6 @@
+[submodule "flight-school"]
+	path = flight-school
+	url = https://github.com/concourse/flight-school.git
+[submodule "concourse-ci-docker"]
+	path = concourse-ci-docker
+	url = https://github.com/MeteoGroup/concourse-ci.git
